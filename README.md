@@ -54,7 +54,9 @@ while True:
 ```
 
 ## Output
+
 CLIENT:
+
 ![Screenshot 2025-04-21 083732](https://github.com/user-attachments/assets/b130249c-d876-46cc-bb99-b63fc91e9e8c)
 
 SERVER:
